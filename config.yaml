@@ -1,6 +1,6 @@
 baseURL: 'https://example.org/'
 languageCode: 'es-es'
-theme: "hello-4s3ti"
+# theme: "hello-4s3ti"
 author: 
   name: "Valkyrias"
 title: "Valkyrias CyberTeam Site"
