@@ -1,7 +1,7 @@
 baseURL = 'http://www.valkyrias-ciberteam.com/'
 languageCode = 'es-es'
 title = "Valkyrias CyberTeam Site"
-theme = "hello-4s3ti"
+# theme = "hello-4s3ti"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
