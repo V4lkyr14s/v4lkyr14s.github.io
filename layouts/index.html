@@ -1,9 +1,11 @@
 {{ define "body" }}
-    {{ if .Site.Params.backgroundEffects }}
-    <body class="{{ if .Site.Params.backgroundImage }} bg" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
-    {{ else }}
-    <body class="{{ if .Site.Params.backgroundImage }} background-image" style="background-image: url('{{ .Site.Params.backgroundImage }}');" {{ else }}"{{ end }}>
+    {{ $backgroundImage := .Site.Params.backgroundImage }} <!-- Imagen por defecto -->
+    {{ if eq .Site.Params.defaultTheme "dark" }}
+        {{ $backgroundImage = .Site.Params.darkTheme.background }} <!-- Cambia si el tema por defecto es oscuro -->
+    {{ else if eq .Site.Params.defaultTheme "light" }}
+        {{ $backgroundImage = .Site.Params.lightTheme.background }} <!-- Cambia si el tema por defecto es claro -->
     {{ end }}
+    <body class="{{ if .Site.Params.backgroundEffects }}bg{{ else }}background-image{{ end }}" style="background-image: url('{{ $backgroundImage }}');">
 {{ end }}
 
 {{ define "main" }}

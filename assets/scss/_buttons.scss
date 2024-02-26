@@ -22,7 +22,7 @@ a.button {
   cursor: pointer;
   outline: none;
   // Default
-  background: $light-background-header;
+  background: $dark-background-header;
 
   @media (prefers-color-scheme: dark) {
     background: $dark-background-header;
@@ -30,6 +30,7 @@ a.button {
   }
 
   @media (prefers-color-scheme: light) {
+    
     background: $light-background-header;
   }
 

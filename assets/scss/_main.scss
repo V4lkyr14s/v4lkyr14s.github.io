@@ -3,6 +3,8 @@ html {
   line-height: 1.6;
   letter-spacing: 0.06em;
   scroll-behavior: smooth;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 *,
@@ -12,6 +14,8 @@ html {
 }
 
 body {
+  background-image: var(--background-image-dark); /* Tema oscuro por defecto */
+
   margin: 0;
   padding: 0;
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto",
@@ -28,6 +32,9 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+
+  max-width: 100%;
+  overflow-x: hidden;
 
   // Default
   background-color: $light-background;
@@ -56,6 +63,11 @@ body {
     background-color: $light-background;
     color: $light-color;
   }
+}
+
+/* Cambia la imagen de fondo cuando el tema claro esté activo */
+body.theme-light {
+  background-image: var(--background-image-light);
 }
 
 main {

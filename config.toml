@@ -1,7 +1,7 @@
 baseURL = 'http://www.valkyrias-ciberteam.com/'
 languageCode = 'es-es'
 title = "Valkyrias CyberTeam Site"
-# theme = "hello-4s3ti"
+#theme = "hello-4s3ti"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -71,7 +71,7 @@ defaultContentLanguage = "en"
   homeSubtitle = "CyberTeam Site"
 
   # Set a background for the homepage
-  backgroundImage = "assets/images/logo.png"
+  backgroundImage = "assets/images/logoNoName.png"
   
   # Adds a dark overlay over the background
   backgroundEffects = true
@@ -94,6 +94,12 @@ defaultContentLanguage = "en"
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
   enableThemeToggle = true
+
+  [params.darkTheme]
+    background = "assets/images/logoNoName.png"
+
+  [params.lightTheme]
+    background = "assets/images/logoLight.png"
 
   # Sharing buttons
   #
@@ -135,11 +141,11 @@ defaultContentLanguage = "en"
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.fontAwesome]
-    KitURL = "https://kit.fontawesome.com/KitID.js"
+    KitURL = "https://kit.fontawesome.com/90ca003eeb.js"
 
   [params.footer]
     trademark = true
-    rss = true
+    rss = false
     copyright = true
     author = true
 
@@ -160,7 +166,7 @@ defaultContentLanguage = "en"
     theme = "#5e51ae"
 
   [params.logo]
-    logoImage    = "assets/images/background.png"
+    logoImage    = "assets/images/logoNoName.png"
     logoMark     = ">"
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
@@ -192,24 +198,25 @@ defaultContentLanguage = "en"
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/v4lkyr14s"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:valkyrias.ciberteam@gmail.com"
     icon = "fa-solid fa-envelope"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/valkyrias"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/company/valkyrias/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "instagram"
+    url  = "https://www.instagram.com/v4lkyr14s"
+
 
 [languages]
   [languages.en]
