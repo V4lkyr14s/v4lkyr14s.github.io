@@ -36,6 +36,7 @@ IsMultiLingual = false
 defaultContentLanguage = "en"
 
 
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
