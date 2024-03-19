@@ -240,11 +240,12 @@ defaultContentLanguage = "en"
     name       = "Posts"
     url        = "posts/"
   [[menu.main]]
-    identifier = "tools"
-    name       = "Tools"
-    url        = "#"
-  [[menu.main]]
-    identifier = "sometool"
-    name       = "SomeTool"
-    url        = "#"
-    parent     = "tools"
+    identifier = "nosotras"
+    name       = "Nosotras"
+    url        = "nosotras/"
+    
+  # [[menu.main]]
+  #   identifier = "sometool"
+  #   name       = "SomeTool"
+  #   url        = "#"
+  #   parent     = "tools"

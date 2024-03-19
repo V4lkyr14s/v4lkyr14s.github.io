@@ -588,3 +588,29 @@ ul.icons li a:hover {
 ul.icons li a:active {
   background-color: #5e51ae;
 }
+.profile-card {
+  display: flex;
+  border-radius: 15px; /* Ajusta a tus necesidades */
+  background: #fff; /* o cualquier color de fondo que coincida con tu estilo */
+  margin: 20px 0;
+  overflow: hidden; /* Para mantener los bordes redondeados en las imágenes internas */
+}
+
+.profile-image {
+  flex: 0 0 150px; /* Ajusta según el tamaño deseado */
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px 0 0 15px; /* Bordes redondeados solo en el lado izquierdo */
+}
+
+.profile-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.social-links a {
+  margin-right: 10px;
+  font-size: 24px; /* Ajusta el tamaño de los iconos */
+}
