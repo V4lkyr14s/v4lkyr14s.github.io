@@ -1,12 +1,12 @@
-name: Deploy Hugo to GitHub Pages
+name: Build and Deploy Hugo
 
 on:
   push:
     branches:
-      - main  
+      - main  # Asegúrate de que sea tu rama de desarrollo
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,7 +16,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --theme=hugo-theme-hello-4s3ti --minify
+        run: hugo --minify
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
