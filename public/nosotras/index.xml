@@ -10,6 +10,13 @@
     <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/nosotras/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Adriana Gracia</title>
+      <link>http://localhost:1313/nosotras/adrianag/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/adrianag/</guid>
+      <description>Desarrolladora de software con especialización en RPA, además de técnica de sistemas y redes.&#xA;Actualmente trabajo como consultora de procesos en los cuales me encargo de su implementación, diseño, desarrollo, automatización, soporte y mantenimiento. Colaboro en el departamento de desarrollo, centrándome en la automatización y el desarrollo front end, utilizando herramientas como Power BI, Power Automate, Solpheo y UiPath para mejorar la eficiencia y automatización de procesos. Como lenguajes de programación más destacados que sé se encuentran Python, C#, PHP y SQL.</description>
+    </item>
+    <item>
       <title>Alicia García</title>
       <link>http://localhost:1313/nosotras/aliciag/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -36,6 +43,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/martaa/</guid>
       <description>¡Hola Mundo!&#xA;Mi nombre es Marta Alonso, formo parte del equipo de hacking ético de Inetum.&#xA;Soy una apasionada del mundo del Red Team y el Pentest, encontrando en los CTFs un espacio ideal para poner a prueba mis habilidades.</description>
+    </item>
+    <item>
+      <title>Patricia Hernando</title>
+      <link>http://localhost:1313/nosotras/patrip/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/patrip/</guid>
+      <description>Premio extraordinario fin de carrera en Ingeniería Informática por la Universidad de Burgos.&#xA;Actualmente trabaja en ciberseguridad y tiene como objetivo dedicarse a la seguridad ofensiva.&#xA;Interesada en el aprendizaje automático 🤖</description>
     </item>
     <item>
       <title>Sandra Carreras</title>
