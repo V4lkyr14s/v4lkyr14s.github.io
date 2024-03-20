@@ -2,14 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/about/about/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/adrianag/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/aliciag/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/clarac/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/elias/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/lauram/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/martaa/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nosotras/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nosotras/patrip/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/sandrac/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/sofial/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -20,21 +50,6 @@
                 hreflang="en"
                 href="http://localhost:1313/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/nosotras/aliciag/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nosotras/clarac/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nosotras/lauram/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nosotras/martaa/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/nosotras/sandrac/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link

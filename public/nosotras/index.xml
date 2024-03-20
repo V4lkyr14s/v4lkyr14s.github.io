@@ -31,6 +31,13 @@
       <description>Me llamo Clara Contreras (skayara en comunidad ciber), soy ingeniera de Ciberseguridad e investigadora en este campo en la Universidad Rey Juan Carlos.&#xA;Entre mis intereses está el análisis de malware, reversing, estudio de ciberamenazas, especialmente grupos APT, y la inteligencia de fuentes abiertas (OSINT).&#xA;A lo largo de mi carrera, he contribuido al ámbito académico y profesional a través de la impartición de charlas y formaciones sobre estos temas, dirigidas a una amplia gama de audiencias.</description>
     </item>
     <item>
+      <title>Elia Seco</title>
+      <link>http://localhost:1313/nosotras/elias/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/elias/</guid>
+      <description>Me llamo Elia, desde pequeña me ha llamado mucho la atención todo el mundo ciber y de la informática.&#xA;Actualmente estoy estudiando Ingeniaría de la Ciberseguridad y haciendo diversos cursos por mi cuenta, me gusta aprender cada día.</description>
+    </item>
+    <item>
       <title>Laura Montalbán</title>
       <link>http://localhost:1313/nosotras/lauram/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -57,6 +64,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/sandrac/</guid>
       <description>Actualmente estoy en el segundo curso de Ingeniería de la Ciberseguridad en la Universidad Rey Juan carlos.&#xA;Estoy muy interesada en el mundo del Red Team, aunque por ahora lo que más me atrae son las competiciones de CTFs.</description>
+    </item>
+    <item>
+      <title>Sofía López</title>
+      <link>http://localhost:1313/nosotras/sofial/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/sofial/</guid>
+      <description>Me llamó Sofía López, tengo 22 años y estoy en mi último año de estudio de Ciberseguridad en MSMK.&#xA;Desde que terminé mi grado superior de ASIR, he trabajado como administrativa, consultora junior en SAP y en Data Analytics.&#xA;Soy fan de Harry Potter, me fascinan las estrellas, y disfruto de viajar, leer y escuchar música.&#xA;Apasionada por la tecnología y la seguridad informática, busco aportar mi granito de arena en este campo tras finalizar mis estudios.</description>
     </item>
   </channel>
 </rss>
