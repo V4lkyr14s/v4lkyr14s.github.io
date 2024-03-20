@@ -24,6 +24,13 @@
       <description>Graduada en Criminología con máster en Análisis de Inteligencia y máster en Ciberseguridad y Privacidad.&#xA;Cuento con experiencia en el SOC de Telefónica S.A., en la detección de amenazas y monitoreo de riesgos digitales.</description>
     </item>
     <item>
+      <title>Carla Gómez</title>
+      <link>http://localhost:1313/nosotras/carlag/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/carlag/</guid>
+      <description>Soy Carla Gómez Cabanillas. Actualmente estoy estudiando la carrera de Ingeniería de la Ciberseguridad en la Universidad Rey Juan Carlos.&#xA;Disfruto de los desafíos y siempre he estado interesada en la informática y la seguridad. Me gustaría especializarme en ámbitos como Red Team o pentesting.&#xA;He asistido a diversos cursos para aprender sobre diferentes campos como los CTF&amp;rsquo;s, y así poder mejorar mis conocimientos en el área de la Ciberseguridad.</description>
+    </item>
+    <item>
       <title>Clara Contreras</title>
       <link>http://localhost:1313/nosotras/clarac/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -36,6 +43,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/elias/</guid>
       <description>Me llamo Elia, desde pequeña me ha llamado mucho la atención todo el mundo ciber y de la informática.&#xA;Actualmente estoy estudiando Ingeniaría de la Ciberseguridad y haciendo diversos cursos por mi cuenta, me gusta aprender cada día.</description>
+    </item>
+    <item>
+      <title>Eva Fernandez</title>
+      <link>http://localhost:1313/nosotras/evaf/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/evaf/</guid>
+      <description>Estudiante de 1º de Ingeniería de la Ciberseguridad.</description>
     </item>
     <item>
       <title>Laura Montalbán</title>
@@ -64,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/sandrac/</guid>
       <description>Actualmente estoy en el segundo curso de Ingeniería de la Ciberseguridad en la Universidad Rey Juan carlos.&#xA;Estoy muy interesada en el mundo del Red Team, aunque por ahora lo que más me atrae son las competiciones de CTFs.</description>
-    </item>
-    <item>
-      <title>Sofía López</title>
-      <link>http://localhost:1313/nosotras/sofial/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/sofial/</guid>
-      <description>Me llamó Sofía López, tengo 22 años y estoy en mi último año de estudio de Ciberseguridad en MSMK.&#xA;Desde que terminé mi grado superior de ASIR, he trabajado como administrativa, consultora junior en SAP y en Data Analytics.&#xA;Soy fan de Harry Potter, me fascinan las estrellas, y disfruto de viajar, leer y escuchar música.&#xA;Apasionada por la tecnología y la seguridad informática, busco aportar mi granito de arena en este campo tras finalizar mis estudios.</description>
     </item>
   </channel>
 </rss>
