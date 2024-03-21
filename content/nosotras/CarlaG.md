@@ -1,7 +1,7 @@
 ---
 title : "Carla Gómez"
 date : "2024-03-19"
-photo : "/images/nosotras/CarlaG.jpeg" 
+photo : "/images/nosotras/CarlaG.jpg" 
 social :
     instagram : "https://www.instagram.com/carlagmezc/"
 ---

@@ -31,6 +31,13 @@
       <description>Soy Carla Gómez Cabanillas. Actualmente estoy estudiando la carrera de Ingeniería de la Ciberseguridad en la Universidad Rey Juan Carlos.&#xA;Disfruto de los desafíos y siempre he estado interesada en la informática y la seguridad. Me gustaría especializarme en ámbitos como Red Team o pentesting.&#xA;He asistido a diversos cursos para aprender sobre diferentes campos como los CTF&amp;rsquo;s, y así poder mejorar mis conocimientos en el área de la Ciberseguridad.</description>
     </item>
     <item>
+      <title>Carolina Valencia</title>
+      <link>http://localhost:1313/nosotras/carolv/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/carolv/</guid>
+      <description>Hola!&#xA;Me llamo Carolina y actualmente trabajo de Cyber Threat Intelligence Analyst. Llevo en el mundillo de la informática desde los 7 años, pero encaminada en ciber desde hace 4 años.&#xA;Ahora mismo estoy haciendo el Grado de Ingeniería Informática y además el Grado de Psicología mientras intento combinar (como puedo) otros gustos.&#xA;Me fascina descubrir y plantear hipótesis sobre las ciberamenazas junto a su seguimiento. Además, el ámbito de la geopolítica junto a otros pilares actuales son uno de mis mayores intereses.</description>
+    </item>
+    <item>
       <title>Clara Contreras</title>
       <link>http://localhost:1313/nosotras/clarac/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/patrip/</guid>
       <description>Premio extraordinario fin de carrera en Ingeniería Informática por la Universidad de Burgos.&#xA;Actualmente trabaja en ciberseguridad y tiene como objetivo dedicarse a la seguridad ofensiva.&#xA;Interesada en el aprendizaje automático 🤖</description>
-    </item>
-    <item>
-      <title>Sandra Carreras</title>
-      <link>http://localhost:1313/nosotras/sandrac/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/sandrac/</guid>
-      <description>Actualmente estoy en el segundo curso de Ingeniería de la Ciberseguridad en la Universidad Rey Juan carlos.&#xA;Estoy muy interesada en el mundo del Red Team, aunque por ahora lo que más me atrae son las competiciones de CTFs.</description>
     </item>
   </channel>
 </rss>

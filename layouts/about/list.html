@@ -11,8 +11,6 @@
 {{ define "main" }}
     <main aria-role="main">
         <div>
-            <h1>{{ .Site.Params.homeTitle }}</h1>
-            {{ partial "subtitle.html" . }}
         <!-- Start Posts -->
         {{ if .Site.Params.showPosts }}
             {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
@@ -77,18 +75,7 @@
             {{ end }}
         {{ end }}
         <!-- End Posts -->
-        <!-- Social Icons -->
-        {{ if .Site.Params.socialIcons }}
-        <div class="content">
-            <ul class="icons">
-            {{- with .Site.Params.social }}
-             {{ partial "social-icons.html" . }}
-            {{- end }}
-            </ul>
-        </div>
-        {{ end }}
-        <!-- End Social Icons-->
-        </div>
+
 
     </main>
 {{ end }}
