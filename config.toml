@@ -235,14 +235,22 @@ defaultContentLanguage = "en"
     identifier = "about"
     name       = "About"
     url        = "about/"
+    weight     = 20
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+    weight     = 100
   [[menu.main]]
     identifier = "nosotras"
     name       = "Nosotras"
     url        = "nosotras/"
+    weight     = 40
+  [[menu.main]]
+    identifier = "actividades"
+    name       = "Actividades"
+    url        = "actividades/"
+    weight     = 70
     
   # [[menu.main]]
   #   identifier = "sometool"

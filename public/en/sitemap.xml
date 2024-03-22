@@ -60,6 +60,10 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
+    <loc>http://localhost:1313/actividades/rooted/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actividades/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"

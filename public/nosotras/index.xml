@@ -59,6 +59,13 @@
       <description>Estudiante de 1º de Ingeniería de la Ciberseguridad.</description>
     </item>
     <item>
+      <title>Irene Pérez</title>
+      <link>http://localhost:1313/nosotras/irenep/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/irenep/</guid>
+      <description>Estudiante de tercer año del grado de Ingeniería de Software en la Escuela Técnica Superior de Ingeniería Informática (ETSII) de la Universidad Rey Juan Carlos.&#xA;El primer contacto con la representación estudiantil lo tuvo en Septiembre 2020, siendo Delegada de su clase, desde entonces ha ido adquiriendo varios cargos dentro de su Escuela y su Universidad. Desde puestos de Mentoring, hasta puesto de representación estudiantil como Delegada de su Escuela, miembro de la Junta de la Escuela, miembro del Departamento de Informática y Estadística, el Claustro y el Consejo de Estudiantes de la Universidad.</description>
+    </item>
+    <item>
       <title>Laura Montalbán</title>
       <link>http://localhost:1313/nosotras/lauram/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/martaa/</guid>
       <description>¡Hola Mundo!&#xA;Mi nombre es Marta Alonso, formo parte del equipo de hacking ético de Inetum.&#xA;Soy una apasionada del mundo del Red Team y el Pentest, encontrando en los CTFs un espacio ideal para poner a prueba mis habilidades.</description>
-    </item>
-    <item>
-      <title>Patricia Hernando</title>
-      <link>http://localhost:1313/nosotras/patrip/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/patrip/</guid>
-      <description>Premio extraordinario fin de carrera en Ingeniería Informática por la Universidad de Burgos.&#xA;Actualmente trabaja en ciberseguridad y tiene como objetivo dedicarse a la seguridad ofensiva.&#xA;Interesada en el aprendizaje automático 🤖</description>
     </item>
   </channel>
 </rss>
