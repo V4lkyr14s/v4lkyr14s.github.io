@@ -4,6 +4,8 @@
   text-align: left;
   padding: 20px;
   margin: 20px auto;
+  flex: 3;
+  flex-grow: 1;
 
   @media #{$media-size-tablet} {
     max-width: 660px;
@@ -82,4 +84,29 @@
       @include dimmed;
     }
   }
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  position: fixed;
+  top: 100px;
+  left: 100px;
+  width: 200px; 
+  height: 100%;
+  overflow-y: auto;
+}
+
+.menu a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  text-align: left;
+}
+
+.menu a:hover {
+  background-color: #c3a3cc; 
+  color: #352b72;
 }
