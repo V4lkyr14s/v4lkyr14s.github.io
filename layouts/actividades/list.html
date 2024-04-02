@@ -1,25 +1,12 @@
 {{ define "main" }}
-    
-    <main class="posts">
-        <h1>{{ .Title }}</h1>
-
-        {{ if .Content }}
-            <div class="content">{{ .Content }}</div>
-        {{ end }}
-
-            <div class="posts-group">
-                
-
-                <ul class="posts-list">
-                    {{ range .Pages }}
-                        <li class="post-item">
-                            <a href="{{.Permalink}}">
-                                <span class="post-title">{{.Title}}</span>
-                                </span>
-                            </a>
-                        </li>
-                    {{ end }}
-                </ul>
-            </div>
-    </main>
+<main class="posts">
+    <h1>{{ .Title }}</h1>
+    {{ range .Pages }}
+    <article class="post">
+        <h1 class="post-title">{{.Title  | markdownify }}</h1>
+        <div class="post-date">{{ dateFormat "2006-01-02" .Date }}</div>
+        <div class="post-content">{{ .Content }}</div>
+    </article>
+    {{ end }}
+</main>
 {{ end }}

@@ -7,13 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/actividades/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>RootedCon</title>
       <link>http://localhost:1313/actividades/rooted/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/actividades/rooted/</guid>
-      <description></description>
+      <description>Nuestra asistencia a la RootedCon fue una experiencia muy enriquecedora. Desde el momento en que llegamos, nos sumergimos en una atmósfera de entusiasmo y anticipación, preparadas para explorar los diversos tracks de ponencias y actividades temáticas que prometían expandir nuestros conocimientos y redes de contacto.&#xA;La diversidad de los temas abordados en las ponencias fue impresionante. Cada presentación no solo nos brindó valiosos conocimientos técnicos sino también lecciones sobre los desafíos y oportunidades dentro del campo de la ciberseguridad.</description>
+    </item>
+    <item>
+      <title>MorterueloCon</title>
+      <link>http://localhost:1313/actividades/morteruelocon/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actividades/morteruelocon/</guid>
+      <description>Nuestra experiencia en la MorterueloCon de este año se centró exclusivamente en la participación en los talleres AjoarrieroLabs, una serie de sesiones prácticas que profundizaron en técnicas avanzadas de ciberseguridad. Aunque no tuvimos la oportunidad de asistir a las ponencias, los talleres por sí solos ofrecieron un valor inmenso, permitiéndonos adentrarnos en aspectos técnicos específicos y mejorar nuestras habilidades prácticas en un entorno colaborativo​.&#xA;Los talleres, liderados por expertos en la materia, abordaron desde la investigación digital hasta estrategias de defensa avanzadas, proporcionando conocimientos aplicables a nuestros roles diarios.</description>
     </item>
   </channel>
 </rss>

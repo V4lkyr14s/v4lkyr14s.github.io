@@ -29,6 +29,12 @@
     <loc>http://localhost:1313/nosotras/evaf/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/nosotras/irenep/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/laurac/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/nosotras/lauram/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,9 +66,14 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/actividades/rooted/</loc>
-  </url><url>
     <loc>http://localhost:1313/actividades/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/actividades/morteruelocon/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/actividades/rooted/</loc>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
