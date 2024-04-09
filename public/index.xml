@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Cyber Security to Cyber Intelligence</title>
+      <link>http://localhost:1313/posts/2024/04/from-cyber-security-to-cyber-intelligence/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/04/from-cyber-security-to-cyber-intelligence/</guid>
+      <description>I am Patricia and I started working in cybersecurity 6 years ago in Spain, where I am from, as a Threat Hunter, a year ago I decided to change country and my role in cybersecurity.&#xA;Those of us who work in cybersecurity have an advantage that is rarely talked about, and that is the ease of changing roles within the cybersecurity area. By this I mean, a person with a background as a general cybersecurity analyst in a SOC can switch to a more specialized field such as Threat Hunting in a very short time.</description>
+    </item>
     <item>
       <title>¿Quiénes somos?</title>
       <link>http://localhost:1313/about/about/</link>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/irenep/</guid>
       <description>Estudiante de tercer año del grado de Ingeniería de Software en la Escuela Técnica Superior de Ingeniería Informática (ETSII) de la Universidad Rey Juan Carlos.&#xA;El primer contacto con la representación estudiantil lo tuvo en Septiembre 2020, siendo Delegada de su clase, desde entonces ha ido adquiriendo varios cargos dentro de su Escuela y su Universidad. Desde puestos de Mentoring, hasta puesto de representación estudiantil como Delegada de su Escuela, miembro de la Junta de la Escuela, miembro del Departamento de Informática y Estadística, el Claustro y el Consejo de Estudiantes de la Universidad.</description>
-    </item>
-    <item>
-      <title>Laura Centeno</title>
-      <link>http://localhost:1313/nosotras/laurace/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/laurace/</guid>
-      <description>Ingeniera de Ciberseguridad especializada en el mundo de los bichos informáticos (Tambien llamados Malware) y el análisis forense.&#xA;Actualmente trabajando para Universae como Analista de Ciberseguridad e Inteligencia.</description>
     </item>
   </channel>
 </rss>

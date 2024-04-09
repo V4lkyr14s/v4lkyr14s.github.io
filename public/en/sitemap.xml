@@ -84,6 +84,8 @@
     <loc>http://localhost:1313/actividades/morteruelocon/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/1/01/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -95,6 +97,8 @@
                 hreflang="en"
                 href="http://localhost:1313/categories/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
     <xhtml:link
