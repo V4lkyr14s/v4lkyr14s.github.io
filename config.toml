@@ -71,7 +71,7 @@ defaultContentLanguage = "en"
   homeSubtitle = "CyberTeam Site"
 
   # Set a background for the homepage
-  backgroundImage = "assets/images/logoNoName.png"
+  backgroundImage = "static/images/logoNoName.png"
   
   # Adds a dark overlay over the background
   backgroundEffects = true
@@ -96,10 +96,10 @@ defaultContentLanguage = "en"
   enableThemeToggle = true
 
   [params.darkTheme]
-    background = "assets/images/logoNoName.png"
+    background = "static/images/logoNoName.png"
 
   [params.lightTheme]
-    background = "assets/images/logoLight.png"
+    background = "static/images/logoLight.png"
 
   # Sharing buttons
   #
@@ -166,7 +166,7 @@ defaultContentLanguage = "en"
     theme = "#5e51ae"
 
   [params.logo]
-    logoImage    = "assets/images/logoNoName.png"
+    logoImage    = "static/images/logoNoName.png"
     logoMark     = ">"
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
@@ -191,7 +191,7 @@ defaultContentLanguage = "en"
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "assets/images/logo.png"
+    path     = "static/logo.png"
     alt      = "Portrait"
     maxWidth = "50px"
 

@@ -2,6 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/actividades/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/actividades/ritsi/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
     <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +40,12 @@
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nosotras/clarac/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/cristianam/</loc>
+    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nosotras/elady/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nosotras/elias/</loc>
@@ -61,25 +86,6 @@
   </url><url>
     <loc>http://localhost:1313/nosotras/sofial/</loc>
     <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/actividades/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/actividades/ritsi/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/actividades/rooted/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
