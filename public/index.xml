@@ -38,11 +38,25 @@
       <description>Graduada en Criminología con máster en Análisis de Inteligencia y máster en Ciberseguridad y Privacidad.&#xA;Cuento con experiencia en el SOC de Telefónica S.A., en la detección de amenazas y monitoreo de riesgos digitales.</description>
     </item>
     <item>
+      <title>Angie Lopez</title>
+      <link>http://localhost:1313/nosotras/angiel/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/angiel/</guid>
+      <description>Soy Angie y llevo diez años trabajando en tecnologías de la información. Soy especialista en redes y servidores aunque en los últimos años me he especializado en ciberseguridad, como analista de riesgo, enfocándome en GRC.&#xA;Me dedico a implementar marcos de seguridad, gestionar proyectos, realizar auditorías y supervisar controles técnicos.</description>
+    </item>
+    <item>
       <title>Carla Gómez</title>
       <link>http://localhost:1313/nosotras/carlag/</link>
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/carlag/</guid>
       <description>Soy Carla Gómez Cabanillas. Actualmente estoy estudiando la carrera de Ingeniería de la Ciberseguridad en la Universidad Rey Juan Carlos.&#xA;Disfruto de los desafíos y siempre he estado interesada en la informática y la seguridad. Me gustaría especializarme en ámbitos como Red Team o pentesting.&#xA;He asistido a diversos cursos para aprender sobre diferentes campos como los CTF&amp;rsquo;s, y así poder mejorar mis conocimientos en el área de la Ciberseguridad.</description>
+    </item>
+    <item>
+      <title>Carolina Amado</title>
+      <link>http://localhost:1313/nosotras/carola/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/carola/</guid>
+      <description>Soy Carol, ingenieria informática con máster de ciberseguridad, una amante de la ciberinteligencia y del OSINT/HUMINT.&#xA;Me encanta aprender día a día y poder transmitir mis conocimientos.&#xA;Con el corazón dividido entre la ciber y el judo.</description>
     </item>
     <item>
       <title>Carolina Valencia</title>
@@ -64,20 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/cristianam/</guid>
       <description>Experta de seguridad en Telefónica SA.&#xA;Llevo el desarrollo de negocio de dos empresas de criptografía y ciberseguridad que comercializan, entre otros, plataformas de ciberinteligencia, cifradores, sondas de monitorización de red o soluciones de comunicaciones seguras en movilidad integradas en centros de mando y control de tipo C2 y C4.</description>
-    </item>
-    <item>
-      <title>Elady</title>
-      <link>http://localhost:1313/nosotras/elady/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/elady/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Elia Seco</title>
-      <link>http://localhost:1313/nosotras/elias/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/elias/</guid>
-      <description>Me llamo Elia, desde pequeña me ha llamado mucho la atención todo el mundo ciber y de la informática.&#xA;Actualmente estoy estudiando Ingeniaría de la Ciberseguridad y haciendo diversos cursos por mi cuenta, me gusta aprender cada día.</description>
     </item>
   </channel>
 </rss>
