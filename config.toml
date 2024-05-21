@@ -71,7 +71,7 @@ defaultContentLanguage = "en"
   homeSubtitle = "CyberTeam Site"
 
   # Set a background for the homepage
-  backgroundImage = "static/images/logoNoName.png"
+  backgroundImage = "images/logoNoName.png"
   
   # Adds a dark overlay over the background
   backgroundEffects = true
@@ -93,13 +93,13 @@ defaultContentLanguage = "en"
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating systeme. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = true
+  enableThemeToggle = false
 
   [params.darkTheme]
-    background = "static/images/logoNoName.png"
+    background = "images/logoNoName.png"
 
   [params.lightTheme]
-    background = "static/images/logoLight.png"
+    background = "images/logoNoName.png"
 
   # Sharing buttons
   #
@@ -166,7 +166,7 @@ defaultContentLanguage = "en"
     theme = "#5e51ae"
 
   [params.logo]
-    logoImage    = "static/images/logoNoName.png"
+    logoImage    = "images/logoNoName.png"
     logoMark     = ">"
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
