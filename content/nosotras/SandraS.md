@@ -1,5 +1,5 @@
 ---
-title : "Sandra"
+title : "Sandra Sauto"
 date : "2024-03-19"
 nick : "San San"
 photo : "/images/nosotras/SandraS.JPG" 
