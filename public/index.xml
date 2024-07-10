@@ -4,7 +4,7 @@
     <title>Valkyrias CyberTeam Site</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Valkyrias CyberTeam Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
@@ -36,6 +36,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/aliciag/</guid>
       <description>Graduada en Criminología con máster en Análisis de Inteligencia y máster en Ciberseguridad y Privacidad.&#xA;Cuento con experiencia en el SOC de Telefónica S.A., en la detección de amenazas y monitoreo de riesgos digitales.</description>
+    </item>
+    <item>
+      <title>Almudena Bedoya</title>
+      <link>http://localhost:1313/nosotras/almudenab/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/almudenab/</guid>
+      <description>Soy una apasionada de la Ciberinteligencia, de la investigación OSINT y todo lo Ciber.</description>
     </item>
     <item>
       <title>Angie Lopez</title>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/clarac/</guid>
       <description>Me llamo Clara Contreras (skayara en comunidad ciber), soy ingeniera de Ciberseguridad e investigadora en este campo en la Universidad Rey Juan Carlos.&#xA;Entre mis intereses está el análisis de malware, reversing, estudio de ciberamenazas, especialmente grupos APT, y la inteligencia de fuentes abiertas (OSINT).&#xA;A lo largo de mi carrera, he contribuido al ámbito académico y profesional a través de la impartición de charlas y formaciones sobre estos temas, dirigidas a una amplia gama de audiencias.</description>
-    </item>
-    <item>
-      <title>Cristiana Marcu</title>
-      <link>http://localhost:1313/nosotras/cristianam/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/cristianam/</guid>
-      <description>Experta de seguridad en Telefónica SA.&#xA;Llevo el desarrollo de negocio de dos empresas de criptografía y ciberseguridad que comercializan, entre otros, plataformas de ciberinteligencia, cifradores, sondas de monitorización de red o soluciones de comunicaciones seguras en movilidad integradas en centros de mando y control de tipo C2 y C4.</description>
     </item>
   </channel>
 </rss>

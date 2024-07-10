@@ -1,5 +1,5 @@
 ---
-title : "Marina ‘Durán’ González Campos"
+title : "Marina Durán"
 date : "2024-03-19"
 nick : "Duma"
 photo : "/images/nosotras/MarinaD.PNG" 

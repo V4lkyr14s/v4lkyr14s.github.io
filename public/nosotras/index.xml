@@ -4,7 +4,7 @@
     <title>Nosotras on Valkyrias CyberTeam Site</title>
     <link>http://localhost:1313/nosotras/</link>
     <description>Recent content in Nosotras on Valkyrias CyberTeam Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
@@ -22,6 +22,13 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/aliciag/</guid>
       <description>Graduada en Criminología con máster en Análisis de Inteligencia y máster en Ciberseguridad y Privacidad.&#xA;Cuento con experiencia en el SOC de Telefónica S.A., en la detección de amenazas y monitoreo de riesgos digitales.</description>
+    </item>
+    <item>
+      <title>Almudena Bedoya</title>
+      <link>http://localhost:1313/nosotras/almudenab/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nosotras/almudenab/</guid>
+      <description>Soy una apasionada de la Ciberinteligencia, de la investigación OSINT y todo lo Ciber.</description>
     </item>
     <item>
       <title>Angie Lopez</title>
@@ -71,13 +78,6 @@
       <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/nosotras/elady/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>Elia Seco</title>
-      <link>http://localhost:1313/nosotras/elias/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/nosotras/elias/</guid>
-      <description>Me llamo Elia, desde pequeña me ha llamado mucho la atención todo el mundo ciber y de la informática.&#xA;Actualmente estoy estudiando Ingeniaría de la Ciberseguridad y haciendo diversos cursos por mi cuenta, me gusta aprender cada día.</description>
     </item>
   </channel>
 </rss>
